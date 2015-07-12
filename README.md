@@ -3,13 +3,13 @@ Calamari [Calamari](http://ceph.com/calamari/docs/contents.html) is a management
 
 # What's in this repository
 Currently calamari does not provides ready to use packages and its available as [source](https://github.com/ceph/calamari).
-This repository aims to provide Ceph calamari packages for CentOS/RHEL [el6,el7] and Ubuntu operating systems. Package provided for :
+This repository aims to provide Ceph calamari packages for CentOS/RHEL and Ubuntu operating systems. Package provided for :
 - Calamari server 
-- Calamari client
+- Calamari client ( a.k.a Romana )
 - Diamond
 
 # Contribute
-If you are compiling calamari from source to build packages for a specifice version or operating system type , then contribute them to this repository so that they will be available for the community.
+If you are compiling calamari from source to build packages for a specifice version or operating system, then contribute them to this repository so that they will be available for others in the community.
 
 Happy Compiling & Contributing
 
