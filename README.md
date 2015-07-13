@@ -8,6 +8,8 @@ This repository aims to provide Ceph calamari packages for CentOS/RHEL and Ubunt
 - Calamari client ( a.k.a Romana )
 - Diamond
 
+[Read my Blog] (http://www.ksingh.co.in/blog/2015/07/13/ceph-calamari-packages-for-community/)
+
 # Contribute
 If you are compiling calamari from source to build packages for a specifice version or operating system, then contribute them to this repository so that they will be available for others in the community.
 
